@@ -1,0 +1,4 @@
+C:\Users\jx-m-\Desktop\Calculadora\Calculaora\obj\Debug\netcoreapp2.1\Calculaora.csprojAssemblyReference.cache
+C:\Users\jx-m-\Desktop\Calculadora\Calculaora\obj\Debug\netcoreapp2.1\Calculaora.csproj.CoreCompileInputs.cache
+C:\Users\jx-m-\Desktop\Calculadora\Calculaora\obj\Debug\netcoreapp2.1\Calculaora.AssemblyInfoInputs.cache
+C:\Users\jx-m-\Desktop\Calculadora\Calculaora\obj\Debug\netcoreapp2.1\Calculaora.AssemblyInfo.cs
