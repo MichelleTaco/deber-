@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jx-m-\\Desktop\\Calculadora\\Calculaora\\Calculaora.csproj",
-      "projectName": "Calculaora",
-      "projectPath": "C:\\Users\\jx-m-\\Desktop\\Calculadora\\Calculaora\\Calculaora.csproj",
+      "projectUniqueName": "C:\\Users\\jx-m-\\Desktop\\Calculadora\\Calculadora\\Calculadora.csproj",
+      "projectName": "Calculadora",
+      "projectPath": "C:\\Users\\jx-m-\\Desktop\\Calculadora\\Calculadora\\Calculadora.csproj",
       "packagesPath": "C:\\Users\\jx-m-\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jx-m-\\Desktop\\Calculadora\\Calculaora\\obj\\",
+      "outputPath": "C:\\Users\\jx-m-\\Desktop\\Calculadora\\Calculadora\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
